@@ -1,0 +1,1288 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+}
+body{
+    background-color: #626262;
+
+}
+.container{
+    width: 1400px;
+    height: 6670px;
+    background-color: white;
+    margin: 100px auto;
+}
+.logo{
+    font-family: "Montserrat-Bold";
+    font-size: 30pt;
+    color: black;
+    
+    margin-left:  204px;
+    margin-top: 52px;
+    float: left;
+}
+.hright{
+    float: left;
+    margin-left: 24px;
+    font-family: "Montserrat-Light";
+    font-size: 18pt;
+    color: #989898;
+    margin-top: 74px;
+    
+}
+li{
+    list-style: none; 
+}
+.row li{
+    margin-left: 830px;
+    margin-top: 74px;
+    
+}
+.tozalash{
+	clear: both;
+}
+.block{
+    width: 1150px;
+    height: 520px;
+    background-color: #ffe1bd;
+    margin: 72px auto;
+    border: solid #ffe1bd;
+}
+.clemo{
+    font-family: "Montserrat-Bold";
+    font-size: 48pt;
+    margin-top: 120px;
+    margin-left: 430px;
+}
+.chiziq{
+    width: 70px;
+    border-top: solid black;
+    margin-left: 572px;
+    margin-top: 30px;
+}
+.industries{
+    font-family: "Montserrat-Light";
+    font-size: 24pt;
+    margin-left: 440px;
+    margin-top: 24px;
+}
+.get{
+    font-family: "Montserrat-Light";
+    font-size: 18pt;
+    width: 183px;
+    height: 50px;
+    border: 1px solid black;
+    text-align: center;
+    border-radius: 50px;
+    margin-left: 500px;
+    margin-top: 50px;
+    background-color: black;
+    color: #fff;
+}
+.text{
+    margin: 10px auto;
+    color: black;
+}
+.circle1{
+    width: 10px;
+    height: 10px;
+    border: 1px black solid;
+    border-radius: 100%;
+    margin-left: 1120px;
+    margin-top: -180px;
+    background-color: black;
+}
+.circle2{
+    width: 10px;
+    height: 10px;
+    border: 1px black solid;
+    border-radius: 100%;
+    margin-left: 1120px;
+    margin-top: 16px;
+    background-color: #ffe1bd;
+}
+.circle3{
+    width: 10px;
+    height: 10px;
+    border: 1px black solid;
+    border-radius: 100%;
+    margin-left: 1120px;
+    margin-top: 16px;
+    background-color: #ffe1bd;
+}
+.project{
+    font-family: "Montserrat-Hairline";
+    font-size: 60pt;
+    margin-top: 95px;
+    margin-left: 515px;
+}
+.block1{
+    width: 560px;
+    height: 560px;
+    background-color: #bababa;
+    margin-left: 126px;
+    margin-top: 100px;
+}
+.creativ{
+    font-family: "Montserrat-Light";
+    font-size: 30pt;
+    margin-top: -575px;
+    margin-left: 765px;
+}
+.kitchen{
+    font-family: "Montserrat-Bold";
+    font-size: 48pt;
+    margin-left: 765px;
+}
+.sed{
+    font-family: "Montserrat-Light";
+    font-size: 18pt;
+    color: #969696;
+    margin-right: 126px;
+    margin-left: 765px;
+}
+.chiziq1{
+    width: 70px;
+    border-top: solid black;
+    margin-left: 770px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.learn{
+    width: 171px;
+    height: 50px;
+    border: 1px solid #d8d8d8;
+    border-radius: 50px;
+    margin-left: 770px;
+    margin-top: 50px;
+    text-align: center;
+}
+.more{
+    font-family: "Montserrat-Light";
+    font-size: 18pt;
+    margin-top: 10px;
+    color: black;
+}
+.art{
+    font-family: "Montserrat-Light";
+    font-size: 30pt;
+    margin-left: 126px;
+    margin-top: 150px;
+}
+.install{
+    font-family: "Montserrat-Bold";
+    font-size: 48pt;
+    margin-left: 126px;
+}
+.chiziq2{
+    width: 70px;
+    border-top: 3px solid black;
+    margin-left: 126px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.sed1{
+    font-family: "Montserrat-Light";
+    font-size: 18pt;
+    color: #969696;
+    margin-right: 126px;
+    margin-left: 126px;
+}
+.block2{
+    width: 560px;
+    height: 560px;
+    background-color: #bababa;
+    margin-left: 714px;
+    margin-top: -435px;
+    margin-right: 126px;
+}
+.learn1{
+    width: 171px;
+    height: 50px;
+    border: 1px solid #d8d8d8;
+    margin-left: 126px;
+    border-radius: 50px;
+    margin-top: -80px;
+    text-align: center;
+}
+.more1{
+    font-family: "Montserrat-Light";
+    font-size: 18pt;
+    color: black;
+    margin-top: 10px;
+}
+.a{
+    color: black;
+}
+.a1{
+    color: white;
+
+}
+.a8{
+    color: black;
+}
+.print{
+    font-family: "Montserrat-Light";
+    font-size: 30pt;
+    margin-top: -575px;
+    margin-left: 765px;
+}
+.design{
+    font-family: "Montserrat-Bold";
+    font-size: 48pt;
+    margin-left: 765px;
+}
+.best{
+    font-family: "Montserrat-Hairline";
+    font-size: 60pt;
+    margin-top: 95px;
+    margin-left: 515px;
+}
+.work{
+    width: 364px;
+    height: 364px;
+    background-color: #bababa;
+    float: left;
+    margin-left: 126px;
+    margin-top: 100px;
+}
+.work2{
+    width: 364px;
+    height: 590px;
+    background-color: #bababa;
+    margin-left: 29px;
+    float: left;
+    margin-top: 100px;
+}
+.work3{
+    width: 364px;
+    height: 364px;
+    background-color: #bababa;
+    float: left;
+    
+    margin-left: 29px;
+    margin-top: 100px;
+}
+.work4{
+    width: 364px;
+    height: 590px;
+    background-color: #bababa;
+    margin-left: 126px;
+    
+    margin-top: 493px;
+}
+.work5{
+    width: 364px;
+    height: 364px;
+    background-color: #bababa;
+    float: left;
+    
+    margin-left: 518px;
+    margin-top: -365px;
+}
+.work6{
+    width: 364px;
+    height: 590px;
+    background-color: #bababa;
+    margin-left: 913px;
+    float: left;
+    margin-top: -593px;
+}
+.get6{
+    font-family: "Montserrat-Light";
+    font-size: 18pt;
+    width: 183px;
+    height: 50px;
+    border: 1px solid black;
+    text-align: center;
+    border-radius: 50px;
+    margin-right: 600px;
+    margin-top: 50px;
+    background-color: white;
+    float: right;
+}
+.get5{
+    font-family: "Montserrat-Light";
+    font-size: 18pt;
+    width: 183px;
+    height: 50px;
+    border: 1px solid black;
+    text-align: center;
+    border-radius: 50px;
+    margin-right: 450px;
+    margin-top: 50px;
+    background-color: white;
+    float: right;
+}
+.get4{
+    font-family: "Montserrat-Light";
+    font-size: 18pt;
+    width: 183px;
+    height: 50px;
+    border: 1px solid black;
+    text-align: center;
+    border-radius: 50px;
+    margin-right: 460px;
+    margin-top: 50px;
+
+    background-color: white;
+    float: right;
+}
+.a9{
+    color: black
+}
+.team{
+    width: 1396px;
+    height: 708px;
+    border: 1px solid #ffe1bd;
+    background-color: #ffe1bd;
+    margin-top: 130px;
+}
+.bests{
+    font-family: "Montserrat-Bold";
+    font-size: 48pt;
+    margin: 95px 570px;
+}
+.ishchi{
+    width: 168px;
+    height: 168px;
+    background-color: white;
+    border: 1px solid white;
+    border-radius: 100px;
+    float: left;
+    margin-left: 126px;
+    
+}
+.ish{
+    margin-left: 180px;
+    margin-top: -150px;
+}
+.ong{
+    font-size: 80px;
+    margin-left: 126px;
+    
+}
+.chap{
+    font-size: 80px;
+    color: white;
+    margin-top: -95px;
+    margin-left: 1230px;
+}
+.hall{
+    font-family: "Montserrat-Bold";
+    font-size: 40pt;
+    margin-top: 205px;
+    margin-left: 310px;
+}
+.art1{
+    font-family: "Montserrat-Light";
+    font-size: 18pt;
+    margin-left: 355px;
+    margin-top: 15px;
+}
+.line{
+    width: 55px;
+    border-top: 4px solid black;
+    margin-left: 380px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.joshua{
+    font-family: "Montserrat-Bold";
+    font-size: 40pt;
+    margin-left: 620px;
+    margin-top: -130px;
+}
+.line2{
+    width: 55px;
+    border-top: 4px solid black;
+    margin-left: 675px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.founder{
+    font-family: "Montserrat-Light";
+    font-size: 18pt;
+    margin-left: 665px;
+    margin-top: 15px;
+}
+.dian{
+    font-family: "Montserrat-Bold";
+    font-size: 40pt;
+    margin-left: 890px;
+    margin-top: -185px;
+}
+.line3{
+    width: 55px;
+    border-top: 4px solid black;
+    margin-left: 980px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.artist{
+    font-family: "Montserrat-Light";
+    font-size: 18pt;
+    margin-left: 950px;
+}
+.client{
+    font-family: "Montserrat-Hairline";
+    font-size: 60pt;
+    margin-top: 95px;
+    margin-left: 515px;
+}
+.frank{
+    font-family: "Montserrat-Bold";
+    font-size: 40pt;
+    margin-left: 350px;
+    margin-top: 90px;
+}
+.chiz{
+    width: 55px;
+    border-top: 4px solid black;
+    margin-left: 518px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.photo{
+    font-family: "Montserrat-Light";
+    font-size: 18pt;
+    margin-left: 450px;
+}
+.say{
+    font-family: "Montserrat-Light";
+    font-size: 18pt;
+    color: #969696;
+    margin-left: 700px;
+    margin-right: 150px;
+    margin-top: -120px;
+}
+.blok{
+    width: 266px;
+    height: 140px;
+    background-color: #bababa;
+    float: left;
+    margin-left: 28px;
+    margin-top: 83px;
+}
+.blok1{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.circle4{
+    width: 10px;
+    height: 10px;
+    border: 1px black solid;
+    border-radius: 100%;
+    margin-left: 664px;
+    margin-top: -65px;
+    background-color:black;
+    float: left;
+}
+.circle5{
+    width: 10px;
+    height: 10px;
+    border: 1px black solid;
+    border-radius: 100%;
+    margin-left: 695px;
+    margin-top: -65px;
+    float: left;
+    background-color: white;
+}
+.circle6{
+    width: 10px;
+    height: 10px;
+    border: 1px black solid;
+    border-radius: 100%;
+    margin-left: 725px;
+    margin-top: -65px;
+    float: left;
+    background-color: white;
+}
+.ok1{
+    margin-top: 380px;
+}
+.tauch{
+    width: 1400px;
+    height: 700px;
+    background-color: #000;
+    margin-top: 450px;
+}
+.tach{
+    font-family: "Montserrat-Hairline";
+    font-size: 60pt;
+    color: white;
+    margin-left: 430px;
+}
+.tel{
+    width: 15px;
+    height: 20px;
+    margin-left: 126px;
+    margin-top: 70px;
+}
+.joy{
+    font-family: "Montserrat-Light";
+    font-size: 15pt;
+    color: white;
+    margin-left: 155px;
+    margin-top: -25px;
+}
+.manzil{
+    width: 18px;
+    height: 20px;
+    margin-left: 126px;
+    margin-top: 70px;
+}
+.raqam{
+    font-family: "Montserrat-Light";
+    font-size: 15pt;
+    color: white;
+    margin-left: 155px;
+    margin-top: -25px;
+}
+.pochta{
+    width: 20px;
+    height: 20px;
+    margin-left: 126px;
+    margin-top: 70px;
+}
+.mail{
+    font-family: "Montserrat-Light";
+    font-size: 15pt;
+    color: white;
+    margin-left: 155px;
+    margin-top: -25px;
+}
+.icon{
+    width: 40px;
+    height: 40px;
+    float: left;
+    margin-right: 18px;
+    margin-top: 50px;
+}
+.iconka{
+    margin-left: 126px;
+    float: none;
+}
+input{
+   background-color: black;
+   color: black;
+    width: 463px;
+    height: 50px;
+    padding: 10px;
+    border: none;
+    border-bottom: 1px solid white;
+    margin-left: 750px;
+    color: white;
+    margin-top: -900px;
+}
+.in{
+    margin-top: -320px;
+    
+}
+#mail{
+    background-color: black;
+    color: black;
+     width: 463px;
+     height: 50px;
+     padding: 10px;
+     border: none;
+     float: left;
+     color: white;
+    
+     margin-left: 10px;
+     margin-top: -250px;
+     margin-bottom: 50px;
+}
+.message{
+    background-color: black;
+    color: black;
+     width: 463px;
+     height: 50px;
+     padding: 10px;
+     border: none;
+     border-bottom: 1px solid white;
+     margin-left: 755px;
+     margin-top: -180px;
+     color: white;
+     float: left;
+}
+.message2{
+    background-color: black;
+    color: black;
+     width: 463px;
+     height: 50px;
+     padding: 10px;
+     border: none;
+     border-bottom: 1px solid white;
+     margin-left: 755px;
+     color: white;
+     margin-top: -100px;
+     float: left;
+}
+
+.head{
+    width: 1400px;
+    height: 2px;
+    border-bottom: 1px solid #d8d8d8;
+    margin-top: 60px;
+}
+.ora{
+    width: 35px;
+    height: 1px;
+    border-top: 1px solid black;
+    margin-top: 10px;
+    margin-left: 855px;
+}
+.project1{
+    font-family: "Montserrat-Hairline";
+    font-size: 60pt;
+    margin-top: 95px;
+    margin-left: 570px;
+}
+.chiziq6{
+    width: 70px;
+    border-top: solid black;
+    margin-left: 765px;
+    margin-top: -560px;
+}
+.set{
+    font-family: "Montserrat-Light";
+    font-size: 18pt;
+    color: #969696;
+    margin-right: 126px;
+    margin-left: 765px;
+    margin-top: 50px;
+    float: left;
+}
+.chizq2{
+    width: 70px;
+    border-top: 3px solid black;
+    margin-left: 196px;
+    margin-top: 50px;
+    margin-bottom: 40px;
+}
+.creat{
+    font-family: "Montserrat-Bold";
+    font-size: 40pt;
+    margin-left: 196px;
+}
+.happy{
+    margin-left: 285px;
+    margin-top: 100px;
+}
+.cup{
+    font-family: "Montserrat-Bold";
+    font-size: 40pt;
+    margin-right: 300px;
+    float: left;
+}
+.get2{
+    font-family: "Montserrat-Light";
+    font-size: 18pt;
+    width: 183px;
+    height: 50px;
+    border: 1px solid black;
+    text-align: center;
+    border-radius: 50px;
+    margin-right: 450px;
+    margin-top: 50px;
+    background-color: white;
+    float: right;
+}
+.a3{
+    color: black;
+}
+.chiziq7{
+    width: 55px;
+    border-top: 3px solid black;
+    margin-right: 305px;
+    float: left; 
+}
+.chilar{
+    margin-left: 285px;
+}
+.comp2{
+    font-family: "Montserrat-Light";
+    font-size: 18pt;
+    margin-right: 220px;
+    float: left;
+}
+.comp{
+    margin-left: 250px;
+    margin-bottom: 105px;
+}
+.gmail{
+    margin-left: 730px;
+}
+.more3{
+    font-family: "Montserrat-Light";
+    font-size: 18pt;
+    color: white;
+    margin-top: 10px;
+}
+.a{
+    color: black;
+}
+.border{
+    width: 268px;
+    height: 268px;
+    background-color: #bababa;
+    float: left;
+    margin-left: 10px;
+    margin-top: 85px;
+}
+.instagram{
+    font-family: "Montserrat-Hairline";
+    font-size: 60pt;
+    margin-top: 85px;
+    margin-left: 550px;
+    
+}
+.follow{
+    font-family: "Montserrat-Light";
+    font-size: 18pt;
+    width: 183px;
+    height: 50px;
+    border: 1px solid black;
+    text-align: center;
+    border-radius: 50px;
+    margin-right: 600px;
+    margin-top: 50px;
+    margin-bottom: -300pt;
+    background-color: white;
+    float: right;
+}
+.tuch{
+    width: 1400px;
+    height: 700px;
+    background-color: #000;
+    margin-top: 250px;
+}
+.cont{
+    width: 1400px;
+    height: 4200px;
+    background-color: white;
+    margin: 100px auto;
+}
+#container{
+    width: 1400px;
+    height:2565px;
+    background-color: white;
+    margin: 100px auto;
+}
+.c{
+    width: 15px;
+    height: 15px;
+    border: .5px solid black;
+    border-radius: 100px;
+    text-align: center;
+    margin-left: 635px;
+    font-size: 16pt;
+    
+    margin-top: 50px;
+    float: left;
+}
+.c2{
+    margin-top: -7px;
+}
+#clemo{
+    font-family: "Montserrat-Light";
+    font-size: 18pt;
+    margin-left: 660px;
+    margin-top: 43px;
+}
+#all{
+    font-family: "Montserrat-Light";
+    font-size: 14pt;
+    margin-left: 640px;
+    margin-top: 10px;
+}
+.ora2{
+    width: 35px;
+    height: 1px;
+    border-top: 1px solid black;
+    margin-top: 10px;
+    margin-left: 960px;
+}
+.ora3{
+    width: 35px;
+    height: 1px;
+    border-top: 1px solid black;
+    margin-top: 10px;
+    margin-left: 1060px;
+}
+.services{
+    font-family: "Montserrat-Hairline";
+    font-size: 60pt;
+    margin-top: 95px;
+    margin-left: 550px;
+}
+.head2{
+    width: 1400px;
+    height: 2px;
+    border-bottom: 1px solid #d8d8d8;
+    margin-top: 130px;
+}
+#container2{
+    width: 1400px;
+    height:2870px;
+    background-color: white;
+    margin: 100px auto;
+}
+.works{
+    font-family: "Montserrat-Hairline";
+    font-size: 60pt;
+    margin-top: 95px;
+    margin-left: 610px;
+}
+.work7{
+    width: 364px;
+    height: 364px;
+    background-color: #bababa;
+    float: left;
+    margin-left: 126px;
+    margin-top: 30px;
+}
+.work8{
+    width: 364px;
+    height: 590px;
+    background-color: #bababa;
+    margin-left: 30px;
+    float: left;
+    margin-top: 30px;
+}
+.work9{
+    width: 364px;
+    height: 364px;
+    background-color: #bababa;
+    float: left;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+#hamma{
+    margin-top: -60px;
+}
+.show{
+    margin-left: 110px;
+}
+.reser{
+    margin-top: 150px;
+    margin-left: -20px;
+}
+.c3{
+    width: 15px;
+    height: 15px;
+    border: .5px solid black;
+    border-radius: 100px;
+    text-align: center;
+    margin-left: 635px;
+    font-size: 16pt;
+    
+    margin-top: 5px;
+    float: left;
+}
+#kitchen{
+    margin-left: -80px;
+}
+.priz{
+    width: 1400px;
+    height: 200px;
+    background-color: black;
+   margin-top: 100px;
+}
+.prise{
+    font-family: "Montserrat-Light";
+    font-size: 30pt;
+    margin-left: 295px;
+    float: left;
+    color: white;
+}
+.s{
+    width: 50px;
+    margin-left: 500px;
+    margin-top:25px;
+    background-color: white;
+}
+.dollor{
+    font-family: "Montserrat-Bold";
+    font-size: 40pt;
+    color: white;
+    margin-left: 600px;
+    margin-top: -50px;
+}
+.event{
+    font-family: "Montserrat-Light";
+    font-size: 30pt;
+    color: #858585;
+    margin-left: 730px;
+    margin-top: -50px;
+}
+.h{
+    font-family: "Montserrat-Light";
+    font-size: 18pt;
+    width: 183px;
+    height: 50px;
+    border: 1px solid black;
+    text-align: center;
+    border-radius: 50px;
+    margin-right: 300px;
+    margin-top: -50px;
+
+    background-color: white;
+    float: right;
+}
+.cont3{
+    width: 1400px;
+    height:3650px;
+    background-color: white;
+    margin: 100px auto;
+}
+#ora{
+    margin-left: 250px;
+}
+.d{
+    margin-top: -450px;
+    background-color: white;
+}
+#q{
+    font-family: "Montserrat-Hairline";
+    font-size: 60pt;
+    color: black;
+    margin-left: 550px;
+}
+.con{
+    width: 1400px;
+    height: 700px;
+    background-color:white;
+    margin-top: 450px;
+}
+.joy3{
+    font-family: "Montserrat-Light";
+    font-size: 15pt;
+    color: black;
+    margin-left: 155px;
+    margin-top: -25px;
+}
+.mail1{
+    font-family: "Montserrat-Light";
+    font-size: 15pt;
+    color: black;
+    margin-left: 155px;
+    margin-top: -25px;
+}
+.raqam2{
+    font-family: "Montserrat-Light";
+    font-size: 15pt;
+    color: black;
+    margin-left: 155px;
+    margin-top: -25px;
+}
+.in2{
+    margin-top: -300px;
+    background-color: white;
+    color: white;
+}
+.name{
+    background-color: white;
+    color: black;
+    border-bottom: 1px solid black;
+    margin-bottom: 20px;
+    
+}
+.p{
+   
+    margin-top: -220px;
+    margin-left: 0px;
+}
+.mal{
+    width: 463px;
+     height: 50px;
+     padding: 10px;
+     border: none;
+     border-bottom: 1px solid black;
+    background-color: white;
+}
+.mes{
+    background-color: white;
+    margin-top: 5px;
+    width: 463px;
+     height: 50px;
+     padding: 10px;
+     border: none;
+     border-bottom: 1px solid black;
+}
+.mes2{
+    background-color: white;
+    width: 463px;
+     height: 50px;
+     padding: 10px;
+     border: none;
+     border-bottom: 1px solid black;
+     margin-top: -100px;
+     margin-bottom: 20px;
+     float: left;
+}
+.karta{
+    margin-top: 100px;
+}
+.k{
+    margin-top: 150px;
+    margin-left: 250px;
+}
+.cont5{
+    width: 1400px;
+    height:1550px;
+    background-color: white;
+    margin: 100px auto;
+}
+.gol{
+    margin-left: -170px;
+}
+.next{
+    font-family: "Montserrat-Light";
+    font-size: 18pt;
+    margin-left: 620px;
+    margin-top: 90px;
+    color: #bababa;
+}
+.pre{
+    width: 952px;
+    height: 610px;
+    background-color: #bababa;
+    margin-left: 224px;
+    margin-top: 100px;
+}
+.circle7{
+    width: 10px;
+    height: 10px;
+    border: 1px black solid;
+    border-radius: 100%;
+    margin-left: 725px;
+    margin-top: -65px;
+    float: left;
+    background-color: white;
+}
+.circle8{
+    width: 10px;
+    height: 10px;
+    border: 1px black solid;
+    border-radius: 100%;
+    margin-left: 750px;
+    margin-top: -65px;
+    float: left;
+    background-color: white;
+}
+.circle9{
+    width: 10px;
+    height: 10px;
+    border: 1px black solid;
+    border-radius: 100%;
+    margin-left: 778px;
+    margin-top: -65px;
+    float: left;
+    background-color: white;
+}
+#g{
+    margin-top: 48px;
+}
+#num{
+    font-family: "Montserrat-Light";
+    font-size: 18pt;
+    margin-left: 500px;
+    margin-top: 50px;
+    float: left;
+    color: #bababa;
+}
+.chizq3{
+    width: 70px;
+    border-top: 3px solid black;
+    margin-left: 770px;
+    margin-top: -50Px;
+   
+    margin-bottom: 40px;
+}
+.chizq4{
+    width: 70px;
+    border-top: 3px solid black;
+    margin-left: 280px;
+    margin-top: 100px;
+    margin-bottom: 40px;
+}
+#l{
+    margin-top: -280px;
+    
+}
+.sa{
+    margin-left: 80px;
+}
+#v{
+    margin-left: 640px;
+    margin-top: -500px;
+}
+.bests2{
+    font-family: "Montserrat-Bold";
+    font-size: 48pt;
+    margin-left: 515px;
+    margin-top: 90px;
+}
+#contain{
+    width: 1398px;
+    height: 2900px;
+    background-color: white;
+    margin: 100px auto;
+}
+.hall2{
+    font-family: "Montserrat-Bold";
+    font-size: 36pt;
+    margin-top: 50px;
+    float: left;
+    margin-left: 200px;
+}
+.lin{
+    width: 55px;
+    border-top: 4px solid black;
+    margin-left: 380px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    
+    margin-left: 200px;
+}
+.lin2{
+    width: 55px;
+    border-top: 4px solid black;
+    margin-left: 380px;
+    margin-top: -30px;
+    margin-bottom: 20px;
+    margin-left: 580px;
+}
+.lin3{
+    width: 55px;
+    border-top: 4px solid black;
+    margin-left: 380px;
+    margin-top: -70px;
+    margin-bottom: 20px;
+    margin-left: 1070px;
+}
+.x{
+    font-family: "Montserrat-Light";
+    font-size: 18pt; 
+    margin-left: 200px; 
+    margin-top: 70px;
+}
+.x1{
+    font-family: "Montserrat-Light";
+    font-size: 18pt;
+    margin-left: 580px; 
+    margin-top: -30px;  
+}
+.x2{
+    font-family: "Montserrat-Light";
+    font-size: 18pt; 
+    margin-left: 1070px; 
+    margin-top: -70px; 
+}
+#j{
+    margin-top: 200px;
+}
+.team5{
+    width: 1396px;
+    height: 608px;
+    border: 1px solid #ffe1bd;
+    background-color: #ffe1bd;
+    margin-top: 130px;
+}
+.blog1{
+    margin-left: -65px;
+}
+.blog{
+    font-family: "Montserrat-Hairline";
+    font-size: 60pt;
+    margin-left: 680px;
+    margin-top: 50px;
+}
+.row3{
+    margin-left: 480px;
+}
+.hright1{
+    float: left;
+    margin-left: 24px;
+    font-family: "Montserrat-Light";
+    font-size: 18pt;
+    color: black;
+    margin-top: 74px;
+}
+.have{
+    margin-top: -580px;
+    
+}
+.sana{
+    margin-top: 10px;
+    font-size: 18pt;
+    font-family: "Montserrat-Light";
+    margin-left: 770px;
+}
+
+.sana2{
+    margin-top: 10px;
+    font-size: 18pt;
+    font-family: "Montserrat-Light";
+    margin-left: 126px;
+}
+.install2{
+    font-family: "Montserrat-Bold";
+    font-size: 48pt;
+    margin-left: 126px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+.o{
+    margin-top: -500px;
+}
+#i{
+    margin-left: -430px;
+}
+.t{
+    margin-left: -180px;
+    margin-top: 90px;
+}
+#blok{
+    width: 755px;
+    height: 480px;
+    background-color: #bababa;
+    margin-top: 100px;
+    margin-left: 322px;
+}
+.el{
+    margin-top: 630px;
+    margin-left: -440px;
+}
+.sem{
+    font-family: "Montserrat-Light";
+    font-size: 18pt;
+    color: #969696;
+   margin-top: 50px;
+    margin-left: 320px;
+    margin-right: 300px;
+}
+#js{
+    
+    font-family: "Montserrat-Hairline";
+    font-size: 48pt;
+    margin-top: 145px;
+    margin-left: 320px;
+}
+.op{
+    margin-left: -50px;
+}
+#vs{
+    margin-top: -68px;
+    margin-left: 50px;
+}
+#vs1{
+    margin-top: -68px;
+    margin-left: 50px;
+    margin-right: -200px;
+}
